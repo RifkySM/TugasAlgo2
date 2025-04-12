@@ -20,6 +20,7 @@ public class RecursiveMethod extends Application {
         countDown(start);
 
         VBox root = new VBox(outputArea);
+        System.out.println("TEST");
         Scene scene = new Scene(root, 300, 200);
         stage.setTitle("Simple Recursive Example");
         stage.setScene(scene);
