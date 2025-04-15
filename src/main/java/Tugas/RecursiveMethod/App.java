@@ -3,13 +3,10 @@ package Tugas.RecursiveMethod;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.TextArea;
-import javafx.scene.layout.Pane;
 import javafx.scene.layout.VBox;
-import javafx.scene.paint.Color;
-import javafx.scene.shape.Line;
 import javafx.stage.Stage;
 
-public class RecursiveMethod extends Application {
+public class App extends Application {
     private final TextArea outputArea = new TextArea();
     @Override
     public void start(Stage stage) {

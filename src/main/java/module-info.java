@@ -14,4 +14,5 @@ module main.algo2 {
     opens main.algo2 to javafx.fxml;
     exports main.algo2;
     exports Tugas.RecursiveMethod;
+    exports Tugas.TextFiles;
 }
