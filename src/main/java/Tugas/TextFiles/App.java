@@ -15,7 +15,6 @@ public class App extends Application{
     private static final String TARGET_DIR = "src/main/java/Tugas/TextFiles/";
 
     private String get_file_path() {
-        // Create the target directory if it doesn't exist
         File dir = new File(TARGET_DIR);
         if (!dir.exists()) {
             dir.mkdirs();

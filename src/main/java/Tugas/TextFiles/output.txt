@@ -1,0 +1,10 @@
+=== Daftar Data ===
+
+Data ke-1:
+  Nama: Rifky Saputra Maylandra
+  NIM : 24552011091
+
+Data ke-2:
+  Nama: Andra
+  NIM : 24552011091
+
